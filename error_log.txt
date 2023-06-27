@@ -1,0 +1,22 @@
+node:internal/modules/cjs/loader:1093
+  throw err;
+  ^
+
+Error: Cannot find module 'puppeteer'
+Require stack:
+- /home/dekata/Desktop/Programming/js/fb-api/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1090:15)
+    at Module._load (node:internal/modules/cjs/loader:934:27)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (/home/dekata/Desktop/Programming/js/fb-api/index.js:1:19)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/dekata/Desktop/Programming/js/fb-api/index.js' ]
+}
+
+Node.js v19.9.0
