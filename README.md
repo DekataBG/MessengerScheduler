@@ -4,9 +4,9 @@
 With these scripts you can schedule a message to be sent on Messenger to a friend. The code is made for the same day but it can easily be modified to choose a date other than the current date.
 
 ## Run
-Install Puppeteer: npm install puppeteer
+Install Puppeteer: ```npm install puppeteer```
 
-Type ./scripts/run.sh to start the program. 
+Run the program: ```./scripts/run.sh```
 
 ## Requirements
 Linux OS (one that has cron)
