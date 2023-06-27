@@ -5,6 +5,7 @@ With these scripts you can schedule a message to be sent on Messenger to a frien
 
 ## Run
 Install Puppeteer: npm install puppeteer
+
 Type ./scripts/run.sh to start the program. 
 
 ## Requirements
